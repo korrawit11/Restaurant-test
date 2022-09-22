@@ -1,7 +1,3 @@
-<script async
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwPOGB3OQTWUd2SfoE7ojPNbeXl8MAaqU&libraries=places&callback=initMap">
-</script>
-
 const key = 'AIzaSyBwPOGB3OQTWUd2SfoE7ojPNbeXl8MAaqU'
 
 class Mapview {
